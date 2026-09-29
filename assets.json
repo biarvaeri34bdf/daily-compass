@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, glossy 3D brass and sage-green compass rose, single centered object, cream radial gradient background, crisp edges, no text, no scene"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile app loader background, very dark ink navy paper texture with faint brass nautical grid lines, cinematic vignette, low contrast, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile app menu background, cream aged nautical paper texture with faint sage green contour lines and brass hairlines, soft and light, editorial, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile app background, soft blurred cream parchment with pale sage topographic curves, very low contrast for UI overlay, no text, no UI elements"},
+    {"name":"bg_result","type":"bg","prompt":"Vertical 9:16 mobile app background, dark sage green and deep ink navy old sea chart with faint brass constellation lines, moody, no text, no UI elements"},
+    {"name":"sprite_compass_rose","type":"sprite","prompt":"One single brass and sage green compass rose, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_sun","type":"sprite","prompt":"One single stylized brass sun with short rays, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_moon","type":"sprite","prompt":"One single stylized sage green crescent moon, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_leaf","type":"sprite","prompt":"One single sage green olive leaf sprig, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_anchor","type":"sprite","prompt":"One single small brass anchor, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"button_cta","type":"button","prompt":"Horizontal game CTA button background, brushed brass gold gradient, subtle glossy sheen, rounded corners, no text"}
+  ]
+}
